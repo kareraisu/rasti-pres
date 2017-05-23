@@ -1,0 +1,1 @@
+$background: url(images/no-problem.jpeg) center no-repeat$

@@ -1,0 +1,3 @@
+## ok, todo muy lindo pero...
+# cuánto pesa todo esto?
+### seguro tiene banda de dependencias

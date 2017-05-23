@@ -1,0 +1,1 @@
+$background: url(images/aun-hay-mas.jpeg) center no-repeat$
