@@ -1,7 +1,7 @@
 $background: url(images/first-world-problems.jpg) center bottom no-repeat$
 
-## tengo demasiados datos
+## pero... tengo demasiados datos
 
 ```
-people.length > 999 // true
+people.length // 1000000
 ```

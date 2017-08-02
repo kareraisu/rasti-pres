@@ -2,8 +2,15 @@
 
 ```
 app.blocks.myBlock = {
-    template : function(data, $el){...},
-    init : function($el){...},
-    styles : '',
+
+    template : function(data, $el){
+    	...
+    },
+
+    init : function($el){
+    	...
+    },
+
+    styles : '...',
 }
 ```

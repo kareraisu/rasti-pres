@@ -1,8 +1,7 @@
-## {pages} - url
+## {pages} - in() y out()
 
 ```
 app.pages.main = {
-    url : 'main',
     in : function(params) {
         if (params) {
         	app.set('name=user', params.user).show()

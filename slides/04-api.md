@@ -1,5 +1,5 @@
 # API
 
 * ## [] atributos HTML
-* ## {} objetos
+* ## {} objetos (namespaces)
 * ## () métodos

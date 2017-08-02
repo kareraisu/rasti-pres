@@ -1,9 +1,11 @@
-## atributos/clases utilitarios
+## clases utilitarias
 
-* ib
-* floatl, floatr
+* ib, hidden
+* top, bottom, left, right
 * fullh, fullw
 * scrollx, scrolly
 * columns-2, columns-3
-* hide-header-, center-content-
+* hh (hide header), pad
+* modal
+* resize, move, collapse
 * y más...
