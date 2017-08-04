@@ -1,14 +1,19 @@
 ## {pages} - in() y out()
 
 ```
+
 app.pages.main = {
+
     in : function(params) {
         if (params) {
-        	app.set('name=user', params.user).show()
+        	app.set('name=user', params.user)
         }
     },
+
     out : function(params) {
-        app.get('name=user').hide()
+        app.set('name=user', '')
     },
+
 }
+
 ```

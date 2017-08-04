@@ -1,9 +1,15 @@
 ## [label] para elementos
 
 ```
-<div page="login">
-    <input type="text" label="username"/>
-    <input type="password" label="password"/>
+
+<div page="login" header="accede a tu cuenta">
+
+    <input type="text" field="user" label="username"/>
+
+    <input type="password" field="pass" label="password"/>
+
     <button btn>LOG IN</button>
+
 </div>
+
 ```

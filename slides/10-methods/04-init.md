@@ -1,11 +1,12 @@
 ## init()
 
 ```
+
 app.init({
-    log : true,
     root : 'results',
-    theme : 'Weltall',
+    theme : 'blue',
     lang : 'es',
-    state : true,
+    persist : true,
 })
+
 ```

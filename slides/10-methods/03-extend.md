@@ -1,6 +1,7 @@
 ## extend()
 
 ```
+
 app.extend({
     state: {...},
     pages: {...},
@@ -12,4 +13,5 @@ app.extend({
     fx: {...},
     utils: {...},
 })
+
 ```
